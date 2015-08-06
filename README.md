@@ -7,7 +7,7 @@ A simple commmand line tool that converts RDF Dublin Core to DSpace Dublin Core 
 ```
 python rdf_dc_to_dspace_dc.py <filename>
 ```
-<filename> is a RDF Dublin Core file.
+*\<filename\>* is a RDF Dublin Core file.
 The program will generate the Dspace Dublin Coer Simple Archive Format in the following structure.
 ```
 archive_directory
