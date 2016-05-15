@@ -21,4 +21,4 @@ archive_directory
 ```
 
 ## Note
-Use [MarcEdit with MARC => RDF Dublin Core XSLT](marcedit.reeset.net/downloads) to convert MARC format (.mrc) into RDF Dublin Core first. 
+Use [MarcEdit with MARC => RDF Dublin Core XSLT](http://marcedit.reeset.net/downloads) to convert MARC format (.mrc) into RDF Dublin Core first. 
